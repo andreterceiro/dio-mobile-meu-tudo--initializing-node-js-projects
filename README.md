@@ -31,3 +31,5 @@ In Node.js 18+ you can use the following command to watch for changes in your fi
 ```sh
 node --watch .
 ```
+
+This will run your script and watch for changes in your files (live reload).
