@@ -16,3 +16,9 @@ Maybe in the package.json of your project you have a content like this:
   "license": "ISC"
 }
 ```
+
+To run the script that you have above in the node "main" (src/main.js), you can use the following command in the same folder where your package.json is located:
+
+```sh
+node .
+```
