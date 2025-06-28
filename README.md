@@ -22,3 +22,12 @@ To run the script that you have above in the node "main" (src/main.js), you can 
 ```sh
 node .
 ```
+
+
+# node --watch
+
+In Node.js 18+ you can use the following command to watch for changes in your files ("." is an example in the next command):
+
+```sh
+node --watch .
+```
